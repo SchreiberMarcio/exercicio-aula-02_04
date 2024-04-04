@@ -1,0 +1,12 @@
+{
+    "codemetrics.basics.CodeLensEnabled": true,
+    "codemetrics.basics.FileSizeLimitMB": 300,
+    "codemetrics.basics.CodeLensHiddenUnder": 10,
+    "codemetrics.basics.EnabledForHTML": true,
+    "codemetrics.basics.MetricsForArrowFunctionsToggled": true,
+    "editor.defaultFormatter": null,
+    "codemetrics.basics.DiagnosticsEnabled": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    }
+}
